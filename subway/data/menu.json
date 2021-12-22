@@ -1,0 +1,144 @@
+{
+    "menu": [
+        {
+            "kategori": "breakfast",
+            "nama": "Chicken Slice & Egg",
+            "deskripsi": "Nikmati kelezatan santap pagi dengan potongan ayam(disajikan dengan telur).",
+            "harga": "27000",
+            "gambar": "Chicken-Ham-Egg.png"
+        },
+        {
+            "kategori": "breakfast",
+            "nama": "Tuna & Egg",
+            "deskripsi": "Nikmati kelezatan santap pagi dengan tuna(disajikan dengan telur).",
+            "harga": "35000",
+            "gambar": "Tuna-Egg.png"
+        },
+        {
+            "kategori": "breakfast",
+            "nama": "Cheese & Egg",
+            "deskripsi": "Nikmati kelezatan santap pagi dengan keju(disajikan dengan telur).",
+            "harga": "24000",
+            "gambar": "Cheese-Egg.png"
+        },
+        {
+            "kategori": "breakfast",
+            "nama": "Breakfast Strips & Egg",
+            "deskripsi": "Nikmati kelezatan santap pagi dengan breakfast strips(disajikan dengan telur).",
+            "harga": "27000",
+            "gambar": "Breakfast-Strip-Egg.png"
+        },
+        {
+            "kategori": "salads",
+            "nama": "BBQ Chicken",
+            "deskripsi": "Ubah menu sandwich SUBWAY® menjadi salad yang menggugah selera dengan tambahan sayur segar!",
+            "harga": "54000",
+            "gambar": "Buffalo_Chicken_Salad.jpg"
+        },
+        {
+            "kategori": "salads",
+            "nama": "Tuna Mayo",
+            "deskripsi": "Ubah menu sandwich SUBWAY® menjadi salad yang menggugah selera dengan tambahan sayur segar!",
+            "harga": "54500",
+            "gambar": "Tuna_Mayo_Salad.jpg"
+        },
+        {
+            "kategori": "salads",
+            "nama": "Steak & Cheese",
+            "deskripsi": "Ubah menu sandwich SUBWAY® menjadi salad yang menggugah selera dengan tambahan sayur segar!",
+            "harga": "54000",
+            "gambar": "Chipotle_Steak_Melt_Salads.jpg"
+        },
+        {
+            "kategori": "salads",
+            "nama": "Spicy Italian",
+            "deskripsi": "Ubah menu sandwich SUBWAY® menjadi salad yang menggugah selera dengan tambahan sayur segar!",
+            "harga": "62000",
+            "gambar": "Italian_BMT_Salad.jpg"
+        },
+        {
+            "kategori": "wraps",
+            "nama": "BBQ Chicken",
+            "deskripsi": "Terdiri dari menu dengan protein yang di pilih lalu dibungkus dengan roti tipis dan disajikan dengan berbagai sayuran segar pilihanmu.",
+            "harga": "40500",
+            "gambar": "BBQ_Chicken_wrap.jpg"
+        },
+        {
+            "kategori": "wraps",
+            "nama": "Chicken Slice",
+            "deskripsi": "Terdiri dari menu dengan protein yang di pilih lalu dibungkus dengan roti tipis dan disajikan dengan berbagai sayuran segar pilihanmu.",
+            "harga": "35000",
+            "gambar": "Chicken_Strip_Wrap.jpg"
+        },
+        {
+            "kategori": "wraps",
+            "nama": "Chicken Teriyaki",
+            "deskripsi": "Terdiri dari menu dengan protein yang di pilih lalu dibungkus dengan roti tipis dan disajikan dengan berbagai sayuran segar pilihanmu.",
+            "harga": "40500",
+            "gambar": "Chicken_Teriyaki_Wrap.jpg"
+        },
+        {
+            "kategori": "wraps",
+            "nama": "Italian B.M.T",
+            "deskripsi": "Terdiri dari menu dengan protein yang di pilih lalu dibungkus dengan roti tipis dan disajikan dengan berbagai sayuran segar pilihanmu.",
+            "harga": "48000",
+            "gambar": "Italian_BMT_Wrap.png"
+        },
+        {
+            "kategori": "sides",
+            "nama": "Oatmeal Raisin Cookies",
+            "deskripsi": "Sama lezat nya dengan Sandwich kami, bahkan lebih baik jika dipasangkan dengan minuman. Terdapat berbagai pilihan Cookie yang lezat untuk di coba!",
+            "harga": "17500",
+            "gambar": "OatmealRaisinCookies.png"
+        },
+        {
+            "kategori": "sides",
+            "nama": "White Chip Macadamia Nut Cookie",
+            "deskripsi": "Sama lezat nya dengan Sandwich kami, bahkan lebih baik jika dipasangkan dengan minuman. Terdapat berbagai pilihan Cookie yang lezat untuk di coba!",
+            "harga": "17500",
+            "gambar": "WhiteChipMacadamiaNutCookie.png"
+        },
+        {
+            "kategori": "sides",
+            "nama": "Double Chocolate Chip Cookie",
+            "deskripsi": "Sama lezat nya dengan Sandwich kami, bahkan lebih baik jika dipasangkan dengan minuman. Terdapat berbagai pilihan Cookie yang lezat untuk di coba!",
+            "harga": "17500",
+            "gambar": "DoubleChocolateChipCookie.png"
+        },
+        {
+            "kategori": "sides",
+            "nama": "Chocolate Chip Cookie",
+            "deskripsi": "Sama lezat nya dengan Sandwich kami, bahkan lebih baik jika dipasangkan dengan minuman. Terdapat berbagai pilihan Cookie yang lezat untuk di coba!",
+            "harga": "17500",
+            "gambar": "ChocolateChipCookie.png"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Aqua 300ml",
+            "deskripsi": "Sempurnakan Sandwich-mu yang lezat dengan minuman.",
+            "harga": "9000",
+            "gambar": "Aqua-300ml.png"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Minute maid Pulpy orange",
+            "deskripsi": "Sempurnakan Sandwich-mu yang lezat dengan minuman.",
+            "harga": "17000",
+            "gambar": "minutemadepulpyorange.png"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Coffee Latte 8oz",
+            "deskripsi": "Sempurnakan Sandwich-mu yang lezat dengan minuman.",
+            "harga": "25000",
+            "gambar": "coffee-1.png"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Carbonated Drinks 16oz",
+            "deskripsi": "Sempurnakan Sandwich-mu yang lezat dengan minuman.",
+            "harga": "19000",
+            "gambar": "carbonated-drinks.png"
+        }
+    ]
+}
